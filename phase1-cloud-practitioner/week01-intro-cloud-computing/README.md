@@ -1,20 +1,20 @@
 # Week 01 – Intro to Cloud (IoT-Aligned)
 
-## 🎯 Objective
+##  Objective
 Map core AWS concepts to an IoT system (device → MQTT → AWS → dashboard).
 
-## 🏗 Architecture
+##  Architecture
 (Add `architecture-diagram.png` here later.)
 
-## 🛠 AWS Services
+##  AWS Services
 - IAM, S3, Lambda (preview)
 - AWS IoT Core (preview)
 
-## 🚀 Tasks
+##  Tasks
 - Create AWS CLI profile
 - Draft high-level IoT → AWS architecture diagram
 - Plan cost guardrails (budgets)
 
-## ✅ Outcomes
+##  Outcomes
 - Diagram + notes committed
 - CLI working; SSH to GitHub verified
