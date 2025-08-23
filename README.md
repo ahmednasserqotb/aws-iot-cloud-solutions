@@ -1,75 +1,87 @@
 # AWS IoT Cloud Solutions
 
-This repo tracks my ALX AWS C9 journey (Cloud Practitioner + Solutions Architect) with IoT-integrated projects.
+This repository documents my journey through the **ALX AWS Cloud Computing Program (C9)**, enhanced with **IoT-focused projects**.  
+It combines structured AWS Academy learning materials with real IoT integration examples, resulting in a professional portfolio that bridges **embedded systems** and **cloud architecture**.
 
-## Repo Map
-- **phase1-cloud-practitioner/**: Weeks 1–9 (AWS fundamentals + IoT add-ons)
-- **phase2-solutions-architect/**: Weeks 10–19 (deep-dive architectures with IoT)
-- **capstone-project/**: Weeks 20–22 end-to-end Smart Home backend on AWS
-- **docs/**: Cheatsheets, architecture diagrams, notes
-- **scripts/**: AWS CLI & automation helpers
+---
 
-## Quick Links
-- Week 01 → `phase1-cloud-practitioner/week01-intro-cloud-computing/`
-- Capstone → `capstone-project/`
+##  Program Context
+- **Provider**: ALX in partnership with AWS Academy 
+- **Duration**: 6 Months (20–30 hrs/week) 
+- **Certifications**: 
+  - AWS Certified Cloud Practitioner 
+  - AWS Certified Solutions Architect – Associate 
 
+The program covers AWS fundamentals, cloud economics, architecture, security, and real-world labs. 
+I am aligning this with my **IoT background** (ESP32, BL602, BLE, MQTT, FreeRTOS) to build **IoT–Cloud solutions**.
+
+---
+
+##  Repo Structure
 ```
 aws-iot-cloud-solutions/
 │
 ├── phase1-cloud-practitioner/       # Weeks 1–9
 │   ├── week01-intro-cloud-computing/
-│   │   ├── README.md
-│   │   ├── architecture-diagram.png
-│   │   └── cost-analysis.xlsx
-│   ├── week02-cloud-economics/
-│   │   ├── README.md
-│   │   ├── cost-simulation.py
-│   │   └── screenshots/
-│   ├── week03-cloud-security-iam/
-│   │   ├── README.md
-│   │   ├── create-iot-policy.py
-│   │   └── iot-policy.json
+│   │   ├── README.md                # Week 1 summary (Cloud Concepts)
+│   │   ├── notes-week1.md
+│   │   ├── aws-docs-scout.md
+│   │   └── caf-overview.md
 │   └── ...
 │
 ├── phase2-solutions-architect/      # Weeks 9–19
-│   ├── week10-architecting-intro/
-│   │   ├── README.md
-│   │   ├── aws-architecture.drawio
-│   │   └── iot-architecture.pdf
-│   ├── week11-storage-layer-s3/
-│   │   ├── README.md
-│   │   ├── ota-upload-script.py
-│   │   └── firmware/
-│   ├── week12-compute-layer-ec2/
-│   │   ├── README.md
-│   │   ├── ec2-deploy.sh
-│   │   └── backend-api/
 │   └── ...
 │
-├── capstone-project/                 # Weeks 20–22
-│   ├── README.md
-│   ├── src/
-│   │   ├── lambda/
-│   │   ├── frontend-dashboard/
-│   │   └── device-firmware/
-│   ├── architecture-diagram.drawio
-│   ├── deployment-guide.md
-│   └── demo-video.mp4
+├── capstone-project/                # Weeks 20–22
+│   └── ...
 │
-├── docs/                             # Documentation & references
+├── docs/                            # Cheatsheets & references
 │   ├── aws-cli-cheatsheet.md
 │   ├── boto3-cheatsheet.md
 │   ├── mqtt-guide.md
 │   ├── glossary.md
 │   └── resources.md
 │
-├── scripts/                          # Automation scripts (Bash, Python)
+├── scripts/                         # Automation scripts
 │   ├── setup-aws-cli.sh
 │   ├── deploy-lambda.sh
 │   └── clean-s3-bucket.py
 │
 ├── .gitignore
-├── LICENSE
-└── README.md                         # Main repo overview
+└── README.md
 ```
 
+---
+
+##  Week 1 Progress (Cloud Foundations – Introduction)
+Based on:
+- *AWS Academy Cloud Foundations Course Introduction (v2.0.15)*  
+- *AWS Academy Cloud Foundations Module 01 – Cloud Concepts Overview (v2.0.13)*
+
+### Key Learnings
+- **Cloud Computing**: On-demand IT resources via Internet, pay-as-you-go.
+- **Six Advantages of Cloud**: Cost model shift, economies of scale, agility, capacity management, stop running DCs, global reach.
+- **Service Models**: IaaS / PaaS / SaaS.
+- **Deployment Models**: Cloud / Hybrid / On-Prem.
+- **AWS Core Service Categories**: Compute, Storage, Databases, Networking, Security, Monitoring.
+- **Cloud Adoption Framework (CAF)**: Business, People, Governance, Platform, Security, Operations.
+- **AWS Documentation Practice**: Located EC2, S3, Lambda, Cloud9 docs and ran a “Hello World” serverless example.
+
+---
+
+##  Resources
+- [AWS Overview Whitepaper](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)  
+- [AWS CAF Whitepaper](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)  
+- [AWS Docs](https://docs.aws.amazon.com/)  
+- [AWS Pricing Overview](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)  
+
+---
+
+##  Next Steps
+- Week 2 → **Cloud Economics & Billing**
+- Extend repo with cost simulation scripts (S3 vs DynamoDB storage costs for IoT telemetry).
+- Start first IoT → AWS integration test: ESP32/BL602 publishing to AWS IoT Core → DynamoDB.
+
+---
+
+ Maintainer: **Ahmed Abdelnasser Ahmed Morsy** – IoT Engineer & IT System Administrator
