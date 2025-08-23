@@ -11,3 +11,7 @@
 **Action items**:
 - Define tagging strategy for IoT resources (env, product, team)
 - Decide multi‑account layout (dev/stage/prod) for AWS C9 capstone
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
