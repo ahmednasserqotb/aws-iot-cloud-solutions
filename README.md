@@ -14,9 +14,6 @@ It combines structured AWS Academy learning materials with real IoT integration 
   - AWS Certified Cloud Practitioner 
   - AWS Certified Solutions Architect – Associate 
 
-The program covers AWS fundamentals, cloud economics, architecture, security, and real-world labs. 
----
-
 ##  Program Context
 - **Provider**: ALX in partnership with AWS Academy
 - **Duration**: 6 Months (20–30 hrs/week)
