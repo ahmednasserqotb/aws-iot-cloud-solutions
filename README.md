@@ -14,7 +14,7 @@ It combines structured AWS Academy learning materials with real IoT integration 
   - AWS Certified Cloud Practitioner 
   - AWS Certified Solutions Architect – Associate 
 
-The program covers AWS fundamentals, cloud economics, architecture, security, and real-world labs. 
+- The program covers AWS fundamentals, cloud economics, architecture, security, and real-world labs. 
 =======
 ##  Program Context
 - **Provider**: ALX in partnership with AWS Academy
@@ -69,7 +69,6 @@ aws-iot-cloud-solutions/
 ##  Week 1 Progress (Cloud Foundations – Introduction)
 Based on:
 - *AWS Academy Cloud Foundations Course Introduction (v2.0.15)*
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
 - *AWS Academy Cloud Foundations Module 01 – Cloud Concepts Overview (v2.0.13)*
 
 ### Key Learnings

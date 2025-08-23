@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Week 01 – Intro to Cloud (IoT-Aligned)
 
 ##  Objective
@@ -19,7 +18,7 @@ Map core AWS concepts to an IoT system (device → MQTT → AWS → dashboard).
 ##  Outcomes
 - Diagram + notes committed
 - CLI working; SSH to GitHub verified
-=======
+
 # Week 1 – Introduction to Cloud Computing
 
 This folder contains my learning notes and activities for **Week 1** of the AWS Academy Cloud Foundations course.
@@ -52,4 +51,4 @@ This folder contains my learning notes and activities for **Week 1** of the AWS 
 - [AWS CAF Whitepaper](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
 - [AWS Docs](https://docs.aws.amazon.com/)
 - [AWS Pricing Overview](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
+
