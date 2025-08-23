@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # Week 1 – Cloud Concepts Overview
 
-## ✅ What I Completed
+##  What I Completed
 - AWS Academy Cloud Foundations – Course Introduction (v2.0.15)
 - Module 01 – Cloud Concepts Overview (v2.0.13)
 
-## 🧠 Key Concepts
+##  Key Concepts
 - **Cloud definition & benefits** (on-demand, pay-as-you-go, global scale)
 - **Six advantages of cloud**: capex→opex, economies of scale, capacity planning, agility, stop running DCs, go global
 - **Service models**: IaaS / PaaS / SaaS
@@ -13,12 +13,12 @@
 - **AWS CAF perspectives**: Business, People, Governance, Platform, Security, Operations
 - Navigating **AWS Docs & Whitepapers**
 
-## 🛠 Hands-on
+##  Hands-on
 - Set up Git + SSH to GitHub
 - Scaffolded repo and docs
 - Installed AWS CLI and Python venv with boto3
 
-## 📌 Notes to Self
+##  Notes to Self
 - Keep a running AWS CLI cheatsheet in `/docs/aws-cli-cheatsheet.md`
 - Tie every concept back to IoT (device → MQTT → AWS → dashboard)
 =======
@@ -29,8 +29,6 @@
 - AWS Academy Cloud Foundations – Module 01: Cloud Concepts Overview (v2.0.13)
 
 ---
-
-##  Key Learnings
 
 ### Cloud Computing
 - On-demand IT resources delivered via the internet.
@@ -95,4 +93,4 @@
 - [AWS Docs Home](https://docs.aws.amazon.com/)
 - [AWS Overview Whitepaper](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
 - [AWS CAF Whitepaper](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
+

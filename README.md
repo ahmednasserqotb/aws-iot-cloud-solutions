@@ -1,15 +1,12 @@
 # AWS IoT Cloud Solutions
 
-<<<<<<< HEAD
-This repository documents my journey through the **ALX AWS Cloud Computing Program (C9)**, enhanced with **IoT-focused projects**.  
-=======
 This repository documents my journey through the **ALX AWS Cloud Computing Program (C9)**, enhanced with **IoT-focused projects**.
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
+
 It combines structured AWS Academy learning materials with real IoT integration examples, resulting in a professional portfolio that bridges **embedded systems** and **cloud architecture**.
 
 ---
 
-<<<<<<< HEAD
+
 ##  Program Context
 - **Provider**: ALX in partnership with AWS Academy 
 - **Duration**: 6 Months (20–30 hrs/week) 
@@ -19,7 +16,7 @@ It combines structured AWS Academy learning materials with real IoT integration 
 
 The program covers AWS fundamentals, cloud economics, architecture, security, and real-world labs. 
 =======
-## 📘 Program Context
+##  Program Context
 - **Provider**: ALX in partnership with AWS Academy
 - **Duration**: 6 Months (20–30 hrs/week)
 - **Certifications**:
@@ -27,16 +24,13 @@ The program covers AWS fundamentals, cloud economics, architecture, security, an
   - AWS Certified Solutions Architect – Associate
 
 The program covers AWS fundamentals, cloud economics, architecture, security, and real-world labs.
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
+
 I am aligning this with my **IoT background** (ESP32, BL602, BLE, MQTT, FreeRTOS) to build **IoT–Cloud solutions**.
 
 ---
 
-<<<<<<< HEAD
 ##  Repo Structure
-=======
-## 📂 Repo Structure
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
+
 ```
 aws-iot-cloud-solutions/
 │
@@ -72,12 +66,7 @@ aws-iot-cloud-solutions/
 
 ---
 
-<<<<<<< HEAD
 ##  Week 1 Progress (Cloud Foundations – Introduction)
-Based on:
-- *AWS Academy Cloud Foundations Course Introduction (v2.0.15)*  
-=======
-## ✅ Week 1 Progress (Cloud Foundations – Introduction)
 Based on:
 - *AWS Academy Cloud Foundations Course Introduction (v2.0.15)*
 >>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
@@ -94,7 +83,7 @@ Based on:
 
 ---
 
-<<<<<<< HEAD
+
 ##  Resources
 - [AWS Overview Whitepaper](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)  
 - [AWS CAF Whitepaper](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)  
@@ -103,9 +92,7 @@ Based on:
 
 ---
 
-##  Next Steps
-=======
-## 🔗 Resources
+##  Resources
 - [AWS Overview Whitepaper](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
 - [AWS CAF Whitepaper](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
 - [AWS Docs](https://docs.aws.amazon.com/)
@@ -113,16 +100,12 @@ Based on:
 
 ---
 
-## 🚀 Next Steps
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
+##  Next Steps
+
 - Week 2 → **Cloud Economics & Billing**
 - Extend repo with cost simulation scripts (S3 vs DynamoDB storage costs for IoT telemetry).
 - Start first IoT → AWS integration test: ESP32/BL602 publishing to AWS IoT Core → DynamoDB.
 
 ---
 
-<<<<<<< HEAD
- Maintainer: **Ahmed Abdelnasser Ahmed Morsy** – IoT Engineer & IT System Administrator
-=======
-✍️ Maintainer: **Ahmed Abdelnasser Ahmed Morsy** – IoT Engineer & IT System Administrator
->>>>>>> 1c4dc83 (chore: initialize repo with updated Week 1 structure)
+
