@@ -93,7 +93,7 @@ Based on:
 - [AWS Overview Whitepaper](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
 - [AWS CAF Whitepaper](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
 - [AWS Docs](https://docs.aws.amazon.com/)
-- [AW---S Pricing Overview](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
+- [AWS Pricing Overview](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
 
 ---
 
